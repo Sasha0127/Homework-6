@@ -1,0 +1,25 @@
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 14px;
+  color: gray;
+}
+.hero {
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-align: center;
+  color: blue;
+}
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-align: center;
+  color: blue;
+}
+.hero-text {
+  font-size: 18px;
+  line-height: 1.6;
+}
